@@ -4,7 +4,7 @@
 |---|---|---|
 Hashicorp's official document | https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks | How to Provision an EKS cluster |
 Hashicorp Cloud Platform (HCP) | https://app.terraform.io/ | Where workspace is hosted |
-AWS account or subscription based playground | https://aws.amazon.com/ or https://learn.acloud.guru/home | * aCloudguru playgrounds are destroyed nightly<br>* alleviates the stress of AWS costs |
+AWS account or subscription based playground | https://aws.amazon.com/ or https://learn.acloud.guru/home | <li>aCloudguru playgrounds are destroyed nightly</li><br>* alleviates the stress of AWS costs |
 Terraform local install | https://learn.hashicorp.com/tutorials/terraform/install-cli | mac - brew install terraform |
 |  |  |
 |  |  |
