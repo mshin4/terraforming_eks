@@ -2,7 +2,7 @@
 
 | ITEM | VALUE | NOTES |
 |---|---|---|
-Hashicorp's official document | https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks | |
-us-east-1c | subnet-057750178995be390 | web-access-c |
-us-east-1b | subnet-02a60faad2669f19d | web-processing-b |
+Hashicorp's official document | https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks | How to Provision an EKS cluster |
+Hashicorp Cloud Platform (HCP) | https://app.terraform.io/ | Where workspace is hosted |
+AWS account or subscription based playground | https://aws.amazon.com/ or https://learn.acloud.guru/home | aCloudguru playgrounds are destroyed nightly<br>alleviates the stress of AWS costs |
 us-east-1c | subnet-07766ebe677542f0d | web-processing-c |
